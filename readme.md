@@ -1,6 +1,6 @@
-# atop
+# vishtop
 
-atop is a CLI tool that provides a summarized graph UI of your system performance directly in your terminal.
+vishtop is a CLI tool that provides a summarized graph UI of your system performance directly in your terminal.
 
 ## Features
 - Real-time, terminal-based graphical display of CPU and memory usage
@@ -9,7 +9,7 @@ atop is a CLI tool that provides a summarized graph UI of your system performanc
 
 ## Installation
 
-To install atop globally, run:
+To install vishtop globally, run:
 
 ```
 go install github.com/vishruth555/vishtop@latest
@@ -18,7 +18,7 @@ go install github.com/vishruth555/vishtop@latest
 
 ## Usage
 
-Run atop in your terminal:
+Run vishtop in your terminal:
 
 ```
 vishtop
